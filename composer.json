@@ -1,0 +1,17 @@
+{
+    "name": "cafelt/core",
+    "description": "core framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "cafelaptrinh",
+            "email": "cafelaptrinh2@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "Core\\": "src/"
+        }
+    }
+}
